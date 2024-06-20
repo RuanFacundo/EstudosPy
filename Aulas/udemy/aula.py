@@ -1,2 +1,2 @@
-numero = 0.655
+numero = False
 print(type(numero))
